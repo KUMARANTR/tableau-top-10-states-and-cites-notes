@@ -1,0 +1,14 @@
+regional demand map for b2b and b2c separately
+top 10 states b2b and b2c
+overall map regional
+1 dc memphis b2b and b2c
+1 dc indiapolis 
+1 dc phoenix
+1 dc redlands
+400 miles b2b
+
+1-4 and 5+ transit
+scenario 2 redland + carlisle
+
+
+go to tranist zips and edit alias to edit the transit days legend in tableau box as 1,2,3,4,5 like 5 ++ etc..
